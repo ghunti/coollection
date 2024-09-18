@@ -32,7 +32,6 @@
     "autoload": {
         "psr-4": {
             "PragmaRX\\Coollection\\Package\\": "src/package",
-            "PragmaRX\\Coollection\\Tests\\": "tests",
             "IlluminateExtracted\\": "src/package/Support/IlluminateExtracted",
             "IlluminateExtracted\\Tests\\": "tests/IlluminateExtracted"
         },
